@@ -1,0 +1,13 @@
+WF_ID,WF_TITLE,WF_DETAILS,WF_MODULE,DEPT_ID
+103,Packaging,Packaging,QCS,271
+104,Consumables,Consumables,QCS,271
+105,R&D,R&D,QCS,272
+106,Capex,Capex,QCS,274
+109,"Eng. Consumables, Spares and Services","Eng. Consumables, Spares and Services",QCS,277
+110,COAL,COAL,QCS,278
+118,"RM, CMS, Peptide & New GDS","RM, CMS, Peptide & New GDS",QCS,268
+119,QC/QA consumables,QC/QC CAPEX,QCS,271
+121,Engg Rate Contract,Engg Rate Contract,QCS,269
+126,KSM - New GDS,KSM - New GDS,QCS,268
+129,RM -IMP,RM Import,QCS,293
+130,ARnD,ARnD,QCS,294
